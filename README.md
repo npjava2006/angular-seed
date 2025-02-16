@@ -3,6 +3,8 @@
 This project is an application skeleton for a typical [AngularJS][angularjs] web app. You can use it
 to quickly bootstrap your angular webapp projects and dev environment for these projects.
 
+Got updated on Feb 2025
+
 The seed contains a sample AngularJS application and is preconfigured to install the AngularJS
 framework and a bunch of development and testing tools for instant web development gratification.
 
